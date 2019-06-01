@@ -1,0 +1,10 @@
+torch>=0.4.1
+tqdm
+# Accessing files from S3 directly.
+boto3
+# Used for downloading models over HTTP
+requests
+# For OpenAI GPT
+regex
+# PyTorch pretrained bert
+pytorch-pretrained-bert
